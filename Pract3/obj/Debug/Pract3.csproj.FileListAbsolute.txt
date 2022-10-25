@@ -1,0 +1,7 @@
+C:\Users\Александр\source\repos\Pract3\Pract3\bin\Debug\Pract3.exe.config
+C:\Users\Александр\source\repos\Pract3\Pract3\bin\Debug\Pract3.exe
+C:\Users\Александр\source\repos\Pract3\Pract3\bin\Debug\Pract3.pdb
+C:\Users\Александр\source\repos\Pract3\Pract3\obj\Debug\Pract3.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Pract3\Pract3\obj\Debug\Pract3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Pract3\Pract3\obj\Debug\Pract3.exe
+C:\Users\Александр\source\repos\Pract3\Pract3\obj\Debug\Pract3.pdb
