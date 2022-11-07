@@ -1,0 +1,15 @@
+C:\Users\Александр\source\repos\Notes2\Notes2\bin\Debug\net6.0\Notes2.exe
+C:\Users\Александр\source\repos\Notes2\Notes2\bin\Debug\net6.0\Notes2.deps.json
+C:\Users\Александр\source\repos\Notes2\Notes2\bin\Debug\net6.0\Notes2.runtimeconfig.json
+C:\Users\Александр\source\repos\Notes2\Notes2\bin\Debug\net6.0\Notes2.dll
+C:\Users\Александр\source\repos\Notes2\Notes2\bin\Debug\net6.0\Notes2.pdb
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.csproj.AssemblyReference.cache
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.AssemblyInfo.cs
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.dll
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\refint\Notes2.dll
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.pdb
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\Notes2.genruntimeconfig.cache
+C:\Users\Александр\source\repos\Notes2\Notes2\obj\Debug\net6.0\ref\Notes2.dll
