@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JhODW4VDCAPatngyHqqE4junjp2Z7IwWOc8oc18jVVJFc0T0JbJNBZsy0VB24rOrIG0TCifScbmCTjAVcnasOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gruzd\\source\\repos\\Pract6\\Pract6\\Pract6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gruzd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
