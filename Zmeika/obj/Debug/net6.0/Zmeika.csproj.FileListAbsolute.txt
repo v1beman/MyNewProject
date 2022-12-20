@@ -1,0 +1,15 @@
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.exe
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.deps.json
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.runtimeconfig.json
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.dll
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\bin\Debug\net6.0\Zmeika.pdb
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.csproj.AssemblyReference.cache
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.AssemblyInfoInputs.cache
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.AssemblyInfo.cs
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.csproj.CoreCompileInputs.cache
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.dll
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\refint\Zmeika.dll
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.pdb
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\Zmeika.genruntimeconfig.cache
+C:\Users\gruzd\source\repos\Zmeika\Zmeika\obj\Debug\net6.0\ref\Zmeika.dll
