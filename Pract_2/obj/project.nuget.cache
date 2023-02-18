@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "X40p8b2MG+uYQcGsFiJALAPiD4WIXpHyOAw+fJTduF8AR6Vsa85swRxt27du/fVoAvrJL29PI+plHc5060h7zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gruzd\\source\\repos\\Pract_2\\Pract_2\\Pract_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gruzd\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\materialdesignthemes.mahapps\\0.2.7\\materialdesignthemes.mahapps.0.2.7.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
