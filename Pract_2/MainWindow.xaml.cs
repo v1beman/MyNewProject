@@ -33,14 +33,14 @@ namespace Pract_2
         public MainWindow()
         {
             InitializeComponent();
-            dgToDo.SelectionChanged += DgToDo_SelectionChanged;
+          //  dgToDo.SelectionChanged += DgToDo_SelectionChanged;
             
         }
 
-        private void DgToDo_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            date_pick.SelectedDate = ((Model)dgToDo.SelectedItem).CreationDate;
-        }
+      //  private void DgToDo_SelectionChanged(object sender, SelectionChangedEventArgs e)
+       // {
+       //     date_pick.SelectedDate = ((Model)dgToDo.SelectedItem).CreationDate;
+      //  }
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
