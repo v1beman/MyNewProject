@@ -1,0 +1,39 @@
+﻿<Window x:Class="MediaPlayer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MediaPlayer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Button x:Name="FileChoice" Content="Выберите файл" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="6" MaxHeight="30px" Margin="10 0 10 0" Click="FileChoice_Click"/>
+        <MediaElement x:Name="MediaEl" LoadedBehavior="Manual" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" MediaOpened="MediaEl_MediaOpened"  MediaEnded="MediaEl_MediaEnded"/>
+        <ListBox x:Name="Music" Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="6" Margin="10 0 10 0" SelectionChanged="Music_SelectionChanged"/>
+        <RibbonButton x:Name="BackButton" Label="Назад" LargeImageSource="C:\Users\gruzd\source\repos\MediaPlayer\MediaPlayer\Icons\Back.png" Grid.Row="4" Grid.Column="0" Click="BackButton_Click"/>
+        <RibbonButton x:Name="PlayButton" Label="Играть" LargeImageSource="C:\Users\gruzd\source\repos\MediaPlayer\MediaPlayer\Icons\Играть.png" Grid.Row="4" Grid.Column="1" Click="PlayButton_Click"/>
+        <RibbonButton x:Name="NextButton" Label="Вперед" LargeImageSource="C:\Users\gruzd\source\repos\MediaPlayer\MediaPlayer\Icons\Вперед.png" Grid.Row="4" Grid.Column="2" Click="NextButton_Click"/>
+        <RibbonButton x:Name="RepeatButton" Label="Повтор" LargeImageSource="C:\Users\gruzd\source\repos\MediaPlayer\MediaPlayer\Icons\Повтор.png" Grid.Row="4" Grid.Column="3" Click="RepeatButton_Click"/>
+        <RibbonButton x:Name="RandomButton" Label="Случайно" LargeImageSource="C:\Users\gruzd\source\repos\MediaPlayer\MediaPlayer\Icons\Случайно.png" Grid.Row="4" Grid.Column="4" Click="RandomButton_Click"/>
+        <Label Content="Звук" Grid.Row="4" Grid.Column="5" HorizontalAlignment="Center"/>
+        <Slider x:Name="VolumeSlider" Grid.Row="4" Grid.Column="5" VerticalAlignment="Center" ValueChanged="VolumeSlider_ValueChanged"/>
+        <Slider x:Name="DurationSlider" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="6" VerticalAlignment="Center" ValueChanged="DurationSlider_ValueChanged" Minimum="1" Maximum="50"/>
+        <Label x:Name="CurrentTimer" Grid.Row="2" Grid.Column="0" Height="30px" Width="50px" VerticalAlignment="Top"/>
+        <Label x:Name="RemainTimer" Grid.Row="2" Grid.Column="5" Height="30px" Width="50px" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
