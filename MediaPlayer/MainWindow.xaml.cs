@@ -40,10 +40,6 @@ namespace MediaPlayer
         {
             
             InitializeComponent();
-            if(MediaEl.NaturalDuration.HasTimeSpan)
-            {
-                var a = MediaEl.NaturalDuration.TimeSpan - MediaEl.Position;
-            }
             
             Thread thread = new Thread(_  =>
             {
