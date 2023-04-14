@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="CalendarWPF.DayView"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CalendarWPF"
+             mc:Ignorable="d" Height="100" Width="100">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Image Source="/Images/dots.png" x:Name="dayImage" Grid.Row="1" MouseDown="dayImage_MouseDown"/>
+        <TextBlock x:Name="dayNumber" Grid.Row="0" FontSize="20" TextAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</UserControl>

@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="CalendarWPF.FoodModel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CalendarWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="120" d:DesignWidth="500">
+    <Grid x:Name="foodGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <Image  x:Name="FoodImage" Grid.Column="0"/>
+        <TextBlock x:Name="foodText" Grid.Column="1" VerticalAlignment="Center" FontSize="30" Padding="10 0 0 0"/>
+    </Grid>
+</UserControl>
