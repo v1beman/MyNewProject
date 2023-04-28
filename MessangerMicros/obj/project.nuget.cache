@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "irMAG00T8UVhZYImEoWUII0Ci9qXqqYYHYhEQWiW2o0qFXvwoePxFfisGnf//wQ1Ady8bw5qLsWQYKfi5HzJXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gruzd\\source\\repos\\MessangerMicros\\MessangerMicros\\MessangerMicros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gruzd\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\gruzd\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
