@@ -1,0 +1,12 @@
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\bin\Debug\net6.0\SerDeserLib.deps.json
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\bin\Debug\net6.0\SerDeserLib.dll
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\bin\Debug\net6.0\SerDeserLib.pdb
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.csproj.AssemblyReference.cache
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.AssemblyInfoInputs.cache
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.AssemblyInfo.cs
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.csproj.CoreCompileInputs.cache
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.dll
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\refint\SerDeserLib.dll
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\SerDeserLib.pdb
+C:\Users\gruzd\source\repos\Pract8WPF\SerDeserLib\obj\Debug\net6.0\ref\SerDeserLib.dll

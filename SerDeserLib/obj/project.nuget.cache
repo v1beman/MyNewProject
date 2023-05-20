@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p12vmijIkZ/JO38UPQy2ls94EbfxFiEpLLHoce5+Bfhtpop/MmYoYDs9ykjp+GNh1MBL9Kz774TihR/LOiFlCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gruzd\\source\\repos\\Pract8WPF\\SerDeserLib\\SerDeserLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gruzd\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
